@@ -1,4 +1,4 @@
-[DSV](https://github.com/suenerve/Discord-Username-Checker/blob/main/README.md#dsv)
+Heading 1 [DSV](https://github.com/suenerve/Discord-Username-Checker/blob/main/README.md#dsv)
 Discord Username's availability checker.
 
 (This is the only and only official repo. Do NOT download it from any other repo that claims to have it from me but edited. Check the date and commits of the repo before downloading it from any other repo.)
