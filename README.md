@@ -6,6 +6,8 @@ Discord Username's availability checker.
 
 > Check [notes](https://github.com/decepting/Discord-Username-Checker/blob/main/README.md#notes) for a very important information before using this tool, and for some FAQ.
 ---
+# Images 
+![Preview](proj.jpg)
 # How to use
 - Have [Python](https://www.python.org/) installed.
 
