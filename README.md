@@ -4,7 +4,7 @@ Discord Username's availability checker.
 - Checks for a specific list of usernames.
 - Generates and checks for a specific given amount of usernames with a specific username length, (e.g 4 letters usernames.)
 
-> Check [notes](https://example.com) for a very important information before using this tool, and for some FAQ.
+> Check [notes](https://github.com/decepting/Discord-Username-Checker/blob/main/README.md#notes)) for a very important information before using this tool, and for some FAQ.
 ---
 # How to use
 - Have [Python](https://www.python.org/) installed.
@@ -20,3 +20,4 @@ Discord Username's availability checker.
 - Run `kyo.py`
 
 - (For adding specific list of usernames, create a file named `usernames.txt` in the same running directory as `kyo.py` and list your usernames there, separating them by a new line.)
+# Notes
