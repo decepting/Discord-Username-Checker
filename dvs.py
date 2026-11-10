@@ -19,8 +19,8 @@ import datetime
 from configparser import ConfigParser
 import sys
 init(autoreset=True)
-__version__ = "Author: suenerve DSV 1.9"
-__github__= "https://github.com/suenerve"
+__version__ = "Author: decepting KYO 1.9"
+__github__= "https://github.com/decepting"
 dir_path = os.path.dirname(os.path.realpath(__file__))
 configur = ConfigParser()
 configur.read(os.path.join(dir_path, f"config.ini"))
@@ -156,7 +156,7 @@ def setdelay():
       setdelay()
 
 def proc0():
-    m_input = input(f"{Fore.LIGHTBLACK_EX}[{Fore.LIGHTGREEN_EX}DSV{Fore.LIGHTBLACK_EX}]:> {Fore.LIGHTYELLOW_EX}").lower()
+    m_input = input(f"{Fore.LIGHTBLACK_EX}[{Fore.LIGHTGREEN_EX}KYO{Fore.LIGHTBLACK_EX}]:> {Fore.LIGHTYELLOW_EX}").lower()
     if m_input=="exit":
         sys.exit(0)
     if m_input=="":
@@ -268,7 +268,7 @@ def ch_send_webhook(val0:str):
     webhook = Discord(url=sat_webhook)
     try:
      webhook.post(
-       username="DSV",
+       username="KYO",
        avatar_url="https://cdn.icon-icons.com/icons2/488/PNG/512/search_47686.png",
        embeds=[
     {
@@ -278,12 +278,12 @@ def ch_send_webhook(val0:str):
         "text": "github.com/suenerve/Discord-Username-Checker"
       },
       "author": {
-        "name": "DSV - Username Found",
-        "url": "https://github.com/suenerve/Discord-Username-Checker",
+        "name": "KYO - Username Found",
+        "url": "https://github.com/decepting/Discord-Username-Checker",
         "icon_url": "https://cdn-icons-png.flaticon.com/512/5290/5290982.png"
       },
       "thumbnail": {
-        "url": "https://raw.githubusercontent.com/suenerve/Discord-Username-Checker/main/images/ignore.png"
+        "url": "https://raw.githubusercontent.com/decepting/Discord-Username-Checker/main/images/ignore.png"
       },
       "fields": [],
       "color": 16768000
