@@ -5,7 +5,7 @@ Discord Username's availability checker.
 - Generates and checks for a specific given amount of usernames with a specific username length, (e.g 4 letters usernames.)
 
 > Check [notes](https://example.com) for a very important information before using this tool, and for some FAQ.
-
+---
 # How to use
 - Have Python installed.
 
