@@ -11,7 +11,7 @@ Have Python installed.
 
 First clone the repository or download it as .zip
 
-Install the required libraries, by running : 'pip install -r requirements.txt' or 'pip3 install -r requirements.tx't in your command line.
+Install the required libraries, by running : `pip install -r requirements.txt` or `pip3 install -r requirements.txt` in your command line.
 
 Open dsv.py with Notepad
 
