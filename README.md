@@ -28,3 +28,4 @@ Discord Username's availability checker.
 - If you kept getting an `Available` username message despite it being taken, that means you have either reached the limit (API) or your account didn't receive the update.
 - Make sure to have a decent delay or you may get your account disabled.
 - I **demand** my credits to the code wherever it's used.
+**Support**: [Paypal](example.com)
