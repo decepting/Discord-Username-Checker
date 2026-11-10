@@ -7,7 +7,7 @@ Discord Username's availability checker.
 > Check [notes](https://example.com) for a very important information before using this tool, and for some FAQ.
 ---
 # How to use
-- Have Python installed.
+- Have [Python](https://www.python.org/) installed.
 
 - First clone the repository or [download it as .zip](https://github.com/decepting/Discord-Username-Checker/archive/refs/heads/main.zip)
 
