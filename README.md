@@ -9,11 +9,11 @@ Generates and checks for a specific given amount of usernames with a specific us
 How to use
 Have Python installed.
 
-First clone the repository or download it as .zip
+First clone the repository or [download it as .zip](https://github.com/decepting/Discord-Username-Checker/archive/refs/heads/main.zip)
 
 Install the required libraries, by running : `pip install -r requirements.txt` or `pip3 install -r requirements.txt` in your command line.
 
-Open dsv.py with Notepad
+Open kyo.py with Notepad
 
 Paste your account's token in the variable: TOKEN
 
