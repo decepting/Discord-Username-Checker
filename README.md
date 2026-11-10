@@ -13,9 +13,9 @@ Discord Username's availability checker.
 
 - Install the required libraries, by running : `pip install -r requirements.txt` or `pip3 install -r requirements.txt` in your command line.
 
-- Open config.ini with Notepad
+- Open `config.ini` with Notepad
 
-- Paste your account's token in the variable: TOKEN
+- Paste your account's token in the variable: `TOKEN`
 
 - Run `kyo.py`
 
