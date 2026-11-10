@@ -13,10 +13,10 @@ First clone the repository or [download it as .zip](https://github.com/decepting
 
 Install the required libraries, by running : `pip install -r requirements.txt` or `pip3 install -r requirements.txt` in your command line.
 
-Open kyo.py with Notepad
+Open config.ini with Notepad
 
 Paste your account's token in the variable: TOKEN
 
-Run dsv.py
+Run `kyo.py`
 
-(For adding specific list of usernames, create a file named usernames.txt in the same running directory as dsv.py and list your usernames there, separating them by a new line.)
+(For adding specific list of usernames, create a file named `usernames.txt` in the same running directory as `kyo.py` and list your usernames there, separating them by a new line.)
