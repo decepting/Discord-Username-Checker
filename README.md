@@ -6,10 +6,6 @@ Discord Username's availability checker.
 
 > Check [notes](https://github.com/decepting/Discord-Username-Checker/blob/main/README.md#notes) for a very important information before using this tool, and for some FAQ.
 ---
-# Images 
-<img width="979" height="527" alt="pro" src="https://github.com/user-attachments/assets/65edeb00-fe4b-400d-a4dc-35d809485c90" />
-<img width="978" height="595" alt="proj" src="https://github.com/user-attachments/assets/c91090b4-9e01-4dd3-bf37-a8b54f486a35" />
-
 # How to use
 - Have [Python](https://www.python.org/) installed.
 
@@ -24,6 +20,11 @@ Discord Username's availability checker.
 - Run `kyo.py`
 
 - (For adding specific list of usernames, create a file named `usernames.txt` in the same running directory as `kyo.py` and list your usernames there, separating them by a new line.)
+# Images 
+<img width="979" height="527" alt="pro" src="https://github.com/user-attachments/assets/65edeb00-fe4b-400d-a4dc-35d809485c90" />
+<img width="978" height="595" alt="proj" src="https://github.com/user-attachments/assets/c91090b4-9e01-4dd3-bf37-a8b54f486a35" />
+
+
 # Notes
 **Disclaimer: I'm not responsible for/of any damage/results/returns/suspension made/resulted with/by this tool. It is your will to run, and once ran, it's your responsibility.**
 - Spamming Discord's API is against TOS, You may get your account suspended and I am not responsible. For a further caution, use an alt's token.
