@@ -195,7 +195,7 @@ def validate_names(opt,usernames):
            elif json_endpoint["taken"] is True:
               print(f"{Lb}[-]{Fore.RED} '{username}' taken.")
        else:
-           print(f"{Lb}[?]{Fore.RED} Error validating '{username}': {endpoint.json()['message']} |DSV: Make sure you have a valid token.")
+           print(f"{Lb}[?]{Fore.RED} Error validating '{username}': {endpoint.json()['message']} |KYO: Make sure you have a valid token.")
    elif opt == 1:
        body = {
            "username": usernames
@@ -218,7 +218,7 @@ def validate_names(opt,usernames):
            elif json_endpoint["taken"] is True:
               print(f"{Lb}[-]{Fore.RED} '{usernames}' taken.")
        else:
-           print(f"{Lb}[?]{Fore.RED} Error validating '{usernames}': {endpoint.json()['message']} |DSV: Make sure you have a valid token.")
+           print(f"{Lb}[?]{Fore.RED} Error validating '{usernames}': {endpoint.json()['message']} |KYO: Make sure you have a valid token.")
 def avail_tokens(path):
    with open(path, 'r') as at:
         tokens = at.read().splitlines()
@@ -291,7 +291,7 @@ def ch_send_webhook(val0:str):
 
     )
     except Exception as s:
-       print(f"{Lb}[!]{Fore.RED} Error: Something went wrong while sending the webhook request. Exception: {s} | DSV: Make sure you have a valid webhook URL")
+       print(f"{Lb}[!]{Fore.RED} Error: Something went wrong while sending the webhook request. Exception: {s} | KYO: Make sure you have a valid webhook URL")
    else:
       return
 def opt1func(v1,v2):
