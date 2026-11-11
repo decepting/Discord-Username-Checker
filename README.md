@@ -32,4 +32,17 @@ Discord Username's availability checker.
 - Your account must receive the [name change update](https://discord.com/blog/usernames) to use this tool or else you may face some bugs or an invalid continuation of an `Available` username.
 - If you kept getting an `Available` username message despite it being taken, that means you have either reached the limit (API) or your account didn't receive the update.
 - Make sure to have a decent delay or you may get your account disabled.
-- I **demand** my credits to the code wherever it's used.
+---
+
+# Copyright and License
+
+Copyright © 2026 decepting. All rights reserved.
+
+This project is licensed under **CC BY-NC 4.0**.
+
+- You must give appropriate credit to the original author when sharing or adapting this project.
+- Commercial use, including selling or reselling this project, is prohibited without prior written permission from the copyright holder.
+- Modifications must be clearly indicated.
+- Unauthorized commercial use may result in legal action where permitted by applicable law.
+
+See the [LICENSE](LICENSE) file for the complete license terms.
